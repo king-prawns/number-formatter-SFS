@@ -4,6 +4,10 @@ Number Formatter - Start from scratch
 
 A small library that adds commas to numbers
 
+[![Build Status](https://travis-ci.org/king-prawns/number-formatter-SFS.svg?branch=master)](https://travis-ci.org/king-prawns/number-formatter-SFS)
+
+[![Coverage Status](https://coveralls.io/repos/github/king-prawns/number-formatter-SFS/badge.svg?branch=master)](https://coveralls.io/github/king-prawns/number-formatter-SFS?branch=master)
+
 ## Installation
 
   `npm install number-formatter-sfs`
