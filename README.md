@@ -6,13 +6,13 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @king-prawns/number-formatter`
+  `npm install number-formatter-sfs`
 
 ## Usage
 
-    var numFormatter = require('@king-prawns/number-formatter');
+    var numFormatterSfs = require('number-formatter-sfs');
 
-    var formattedNum = numFormatter(35666);
+    var formattedNum = numFormatterSfs(35666);
   
   
   Output should be `35,666`
