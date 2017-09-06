@@ -22,6 +22,6 @@ A small library that adds commas to numbers
 
   `npm test`
 
-## Contributing
+## Conclusion
 
-In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
+made following [How to Create and Publish Your First Node.js Module](https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738)

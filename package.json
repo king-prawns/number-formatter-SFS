@@ -1,6 +1,6 @@
 {
   "name": "number-formatter-sfs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Number Formatter - Start from scratch",
   "main": "index.js",
   "engines": {
