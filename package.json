@@ -26,6 +26,7 @@
     "growl": "1.10.5",
     "hoek": "5.0.3",
     "istanbul": "0.4.5",
-    "mocha": "3.5.0"
+    "mocha": "3.5.0",
+    "tough-cookie": "2.4.3"
   }
 }
